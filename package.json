@@ -1,0 +1,14 @@
+{
+  "name": "github-tracker",
+  "version": "1.0.0",
+  "description": "A github activity tracker.",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ghtk": "./index.cjs"
+  },
+  "author": "Rohit Baila",
+  "license": "ISC"
+}
